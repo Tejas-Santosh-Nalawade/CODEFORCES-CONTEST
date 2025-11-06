@@ -1,1 +1,4 @@
+# Ignore Visual Studio Code workspace settings and local state
 .vscode/
+
+# End of file
